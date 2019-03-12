@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        // {
+        //     "type": "java",
+        //     "name": "CodeLens (Launch) - App",
+        //     "request": "launch",
+        //     "mainClass": "conglin.App",
+        //     "projectName": "des"
+        // }
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<des>",
+            "request": "launch",
+            "mainClass": "conglin.App",
+            "projectName": "des"
+        }
+    ]
+}
